@@ -1,7 +1,7 @@
 function sumar(a,b){
 
     let total = a + b
-    return "La suma es" + total;
+    return "La suma es S/" + total;
 
 }
 
