@@ -1,8 +1,5 @@
 function sumar(a,b){
 
-    let total = a + b
-    return "La suma es" + total;
+    return a+b;
 
 }
-
-sumar(57,80)
